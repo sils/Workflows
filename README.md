@@ -1,5 +1,5 @@
-A Webseite
-==========
+A Website
+=========
 
 This repsitory holds a website.
 
